@@ -1,0 +1,19 @@
+ul {
+  border: 1px solid #000;
+}
+li:last-child {
+  border: none;
+}
+
+li {
+  border-bottom: 1px solid #000;
+}
+.cart {
+  width: 400px;
+  border: 1px solid #000000;
+  min-height: 200px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  background-color: rgb(104, 185, 233) 7c7;
+}
